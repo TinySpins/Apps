@@ -5,6 +5,8 @@ These applications are contained in single scripts, but often have several depen
 
 Generally, these applications are only useful for very specific use cases. So basically, if I did not personally ask you to get a specific application from this repository to use, the applications probably wont be of any use to you.
 
+Many of the applications requires Ghostscript to be installed on your system. You can download Ghostscript for [Windows/Linux](http://ghostscript.com) and [macOS](http://pages.uoregon.edu/koch).
+
 The different applications are described below.
 
 
