@@ -1,2 +1,2 @@
 # Apps
-Standalone Matlab Applications packaged into Docker Images.
+Standalone Matlab Applications for macOS and Windows.
